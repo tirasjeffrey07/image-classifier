@@ -30,9 +30,11 @@ Be kind :)
 
 ---
 
-Since the system I use couldnt run the notebook in a short span of time, Google Colab was used to run the notebook.
+- Since the system I use couldnt run the notebook in a short span of time, Google Colab was used to run the notebook.
 
-Change all the directories accordingly for proper functioning.
+- Change all the directories accordingly for proper functioning.
+
+- Datasets.zip contains two folders, `Test Data` and `data`. `Test Data` contains test data (4 files), `data` contains the training data. Obviously change them if you want to tweak the model to do something else
 
 ## Clarifications and other necessary information
 
